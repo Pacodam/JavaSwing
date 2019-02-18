@@ -56,6 +56,10 @@ public class SwingProject {
 		}
 		
 
-	
+	/*
+	 * tendremos un jframe, dentro irá un Jpanel que dentro tenga un JSplitPanel, o directamente que el JsplitPanel sea el mismo Jpanel.
+	 * A la izquierda irá la consola, arriba de la consola irá un Jmenu y a la derecha irá la lógica de programa, que será otro JPanel. en este tendré varios: login, menu, new game (el snake irá aqui), un scores (pestañas y subpestañas, etc)
+	 * Lo único que va cambiando es la lógica de la aplicación, el resto es siempre fijo.
+	 */
 
 
